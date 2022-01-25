@@ -38,5 +38,5 @@ So we have an Streamlit application called **app.py** that can help us to load s
 
 
 
-![](C:\Users\ander\Google Drive\GitHub Projects\9_lines _on_the _road\doc_images\Image2.png)
+![](./doc_images/Image2.png)
 
