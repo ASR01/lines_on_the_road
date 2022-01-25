@@ -30,7 +30,7 @@ It is intender to make this recognition with tools of the OpenCv library and not
 
 1. An Streamlit application that allow us to play wit the parameters in order to identify the best ones.
 
-![](C:\Users\ander\Google Drive\GitHub Projects\9_lines _on_the _road\doc_images\Image.png)
+![](./doc_images/Image.png)
 
 Because of the Streamlit Particularities the Image Processing module has been adapted too.
 
